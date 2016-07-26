@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Constantinople is the largest city in Turkey.</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="next_button">Siguiente</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+    <string name="question_oceans">En Los Ángeles, hay menos personas que automóviles.</string>
+    <string name="question_mideast"> Una gota de petróleo es capaz de convertir 25 litros de agua en no potable .</string>
+    <string name="question_africa">La letra "W", es la única letra que no aparece en la tabla periódica.</string>
+    <string name="question_americas">Un cocodrilo si puede sacar la lengua.</string>
+    <string name="question_asia"> Está probado que La cafeína es la mayor fuente de investigaciones y estadísticas.</string>
+    <string name="advertencia">ADVERTENCIA</string>
+    <string name="respuesta">RESPUESTA</string>
+</resources>
